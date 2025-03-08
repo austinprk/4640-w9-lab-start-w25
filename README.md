@@ -30,6 +30,7 @@
 
 
 **Resources:**
+* https://developer.hashicorp.com/packer/integrations/hashicorp/ansible/latest/components/provisioner/ansible
 * https://developer.hashicorp.com/packer/docs/templates/hcl_templates/blocks/packer
 * https://developer.hashicorp.com/packer/docs/templates/hcl_templates/blocks/source
 * https://developer.hashicorp.com/packer/docs/templates/hcl_templates/blocks/build
