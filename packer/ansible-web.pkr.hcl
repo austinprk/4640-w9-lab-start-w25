@@ -32,6 +32,7 @@ source "amazon-ebs" "ubuntu" {
 }
 
 # Reference: https://developer.hashicorp.com/packer/docs/templates/hcl_templates/blocks/build
+# Reference: https://developer.hashicorp.com/packer/integrations/hashicorp/ansible/latest/components/provisioner/ansible
 build {
   name = "packer-ansible-nginx"
   sources = [
